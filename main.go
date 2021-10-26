@@ -100,6 +100,6 @@ const (
 	d int    = 6
 )
 
-//func show(number uint64)  {
-//	fmt.Println(number)
-//}
+func show(number uint64)  {
+	fmt.Println(number)
+}
